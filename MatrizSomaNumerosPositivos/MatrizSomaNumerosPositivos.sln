@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizSomaNumerosPositivos", "MatrizSomaNumerosPositivos.csproj", "{04D950D8-F62F-4EFA-8DD2-93F449739D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D950D8-F62F-4EFA-8DD2-93F449739D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D950D8-F62F-4EFA-8DD2-93F449739D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D950D8-F62F-4EFA-8DD2-93F449739D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D950D8-F62F-4EFA-8DD2-93F449739D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A98239F7-8969-4938-B3CB-FD8F862E4815}
+	EndGlobalSection
+EndGlobal
